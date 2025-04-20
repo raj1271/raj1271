@@ -13,7 +13,7 @@
 Hey! I’m **Raj Pawar**, a passionate and self-driven **Fullstack Developer** who loves crafting clean UIs, scalable backends, and meaningful user experiences.
 
 - 🔭 Currently learning **Advanced Django**, **REST APIs**, and **React.js**
-- 🛠️ Building **[RevNation - Riding Gears](https://github.com/raj1271/revnation-riding-gears)**, a full-stack motorcycle gear e-commerce site
+- 🛠️ Building **[RevNation - Riding Gears](https://github.com/raj1271/RevNation)**, a full-stack motorcycle gear e-commerce site
 - 💡 Always exploring new ideas & building fun projects
 - 📫 Reach me at: [raj.pawar2821@gmail.com](mailto:raj.pawar2821@gmail.com)  
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/raj-pawar-973033217)
@@ -38,9 +38,9 @@ Hey! I’m **Raj Pawar**, a passionate and self-driven **Fullstack Developer** w
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🛒 [RevNation - Riding Gears](https://github.com/raj1271/revnation-riding-gears) | E-commerce platform tailored for bike safety gear | Django, React.js, Bootstrap |
+| 🛒 [RevNation - Riding Gears](https://github.com/raj1271/RevNation) | A E-commerce platform tailored for premium Riding gears | Django |
 | 📦 [Multi-Product Cart System](https://github.com/raj1271/django-cart-custom) | Flexible Django cart with separate product models | Django |
-| 💼 [Portfolio](https://raj1271.github.io/Raj_portfolio/) | A fully responsive personal portfolio site  | HTML, CSS, & Bootstrap |
+| 💼 [Portfolio](https://raj1271.github.io/Raj_portfolio/) | A fully responsive personal portfolio site  | HTML, CSS, Bootstrap |
 
 ---
 
