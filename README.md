@@ -40,7 +40,7 @@ Hey! I’m **Raj Pawar**, a passionate and self-driven **Fullstack Developer** w
 |--------|-------------|------------|
 | 🛒 [RevNation - Riding Gears](https://github.com/raj1271/revnation-riding-gears) | E-commerce platform tailored for bike safety gear | Django, React.js, Bootstrap |
 | 📦 [Multi-Product Cart System](https://github.com/raj1271/django-cart-custom) | Flexible Django cart with separate product models | Django |
-| 🧾 [Invoice Generator](https://github.com/raj1271/invoice-generator) | PDF invoice generation with dynamic templates | Django, ReportLab |
+| 💼 [Portfolio](https://raj1271.github.io/Raj_portfolio/) | A fully responsive personal portfolio site  | HTML, CSS, & Bootstrap |
 
 ---
 
