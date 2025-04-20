@@ -1,26 +1,93 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Raj Pawar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align='right' alt="Coding" Width="400" hight="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj1271&label=Profile%20views&color=0e75b6&style=flat" alt="raj1271" /> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **HTML,CSS,JavaScript,Python & Django**
-
-- 📫 How to reach me **raj.pawar2821@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/raj-pawar-973033217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raj-pawar-973033217" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Raj+Pawar+%F0%9F%91%8B;Fullstack+Developer+%E2%9A%99%EF%B8%8F;Python+%7C+Django+%7C+React.js;Let%E2%80%99s+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" height="300" alt="developer at work" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj1271&show_icons=true&locale=en&layout=compact" alt="raj1271" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj1271&show_icons=true&locale=en" alt="raj1271" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj1271&" alt="raj1271" /></p>
+Hey! I’m **Raj Pawar**, a passionate and self-driven **Fullstack Developer** who loves crafting clean UIs, scalable backends, and meaningful user experiences.
+
+- 🔭 Currently learning **Advanced Django**, **REST APIs**, and **React.js**
+- 🛠️ Building **[RevNation - Riding Gears](https://github.com/raj1271/revnation-riding-gears)**, a full-stack motorcycle gear e-commerce site
+- 💡 Always exploring new ideas & building fun projects
+- 📫 Reach me at: [raj.pawar2821@gmail.com](mailto:raj.pawar2821@gmail.com)  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/raj-pawar-973033217)
+
+---
+
+### 🧰 Tech Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+### 💼 Projects I’m Proud Of
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🛒 [RevNation - Riding Gears](https://github.com/raj1271/revnation-riding-gears) | E-commerce platform tailored for bike safety gear | Django, React.js, Bootstrap |
+| 📦 [Multi-Product Cart System](https://github.com/raj1271/django-cart-custom) | Flexible Django cart with separate product models | Django |
+| 🧾 [Invoice Generator](https://github.com/raj1271/invoice-generator) | PDF invoice generation with dynamic templates | Django, ReportLab |
+
+---
+
+### 🏆 Dev Highlights
+
+- ✅ Built and deployed custom Django apps from scratch  
+- ✅ Created reusable and clean React components  
+- ✅ Hands-on with APIs, authentication, and state management  
+- ✅ Focused on performance, responsiveness, and UI/UX
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj1271&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raj1271&theme=radical&hide_border=false" width="45%" />
+</p>
+
+---
+
+### 🧠 Contributions Over Time
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj1271&theme=react-dark&area=true" alt="Raj's GitHub Activity Graph">
+
+</p>
+
+---
+
+### 💡 Philosophy
+
+> *"Code is not just syntax — it’s art, logic, and a tool to make lives better."*
+
+---
+
+### 🌐 Portfolio (Coming Soon...)
+
+Stay tuned for my personal portfolio site where I’ll be showcasing all my builds, thoughts, and case studies! Want a sneak peek or beta access? Reach out!
+
+---
+
+### 👋 Thanks for visiting!
+
+If you like what you see, drop a ⭐ on my repositories, or shoot me a message.  
+Let’s connect and create something amazing together!
+
+<p align="center">
+  <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="300" />
+</p>
