@@ -38,9 +38,9 @@ Hey! I’m **Raj Pawar**, a passionate and self-driven **Fullstack Developer** w
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🛒 [RevNation - Riding Gears](https://github.com/raj1271/RevNation) | A E-commerce platform tailored for premium Riding gears | Django |
-| 📦 [Multi-Product Cart System](https://github.com/raj1271/django-cart-custom) | Flexible Django cart with separate product models | Django |
-| 💼 [Portfolio](https://raj1271.github.io/Raj_portfolio/) | A fully responsive personal portfolio site  | HTML, CSS, Bootstrap |
+| 🛒 [RevNation - Riding Gears](https://github.com/raj1271/RevNation) | A Django-based e-commerce platform for bike safety gear with custom product models, cart logic, Razorpay integration, and a rugged, responsive UI. | Django |
+| 🐈 [PetPro - Pet Store](https://github.com/raj1271/petpro) | A Django-powered e-commerce platform for buying pets like dogs and cats, featuring product models, user authentication, cart system, Razorpay integration, and responsive pet-themed UI. | Django |
+| 🚗 [Vehicle Rental System](https://raj1271.github.io/VehicleRental) | A console-based app using OOP to browse and rent Cars, Bikes, Trucks, and Buses with detailed pricing and specs.  | Python |
 
 ---
 
