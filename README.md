@@ -77,11 +77,6 @@ Hey! I’m **Raj Pawar**, a passionate and self-driven **Fullstack Developer** w
 
 ---
 
-### 🌐 Portfolio (Coming Soon...)
-
-Stay tuned for my personal portfolio site where I’ll be showcasing all my builds, thoughts, and case studies! Want a sneak peek or beta access? Reach out!
-
----
 
 ### 👋 Thanks for visiting!
 
